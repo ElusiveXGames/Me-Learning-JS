@@ -1,0 +1,14 @@
+Data types can be split into 2.
+Primitive and Non-Primitive
+
+Primitive data types are
+Numbers
+Strings
+Booleans
+Null
+Undefined
+Symbol
+
+Non-Primitive data types are
+Objects
+Arrays
