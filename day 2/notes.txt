@@ -19,3 +19,4 @@ let word = 'JavaScript'
 trying to modify the string that stores word, should throw and error. Any datatype under a Single Quote, Double Quote, or Backtick Quote is a String.
 word[0] = 'Y'
 
+Numbers are integers and decimal values which can do all the arithmetic operations. Let's see some examples of Numbers.
