@@ -12,3 +12,8 @@ Symbol
 Non-Primitive data types are
 Objects
 Arrays
+
+Primitive data types are NON-Modifiable. Once it is created we cant change it example
+let word = 'JavaScript'
+
+trying to modify the string that stores word, should throw and error. Any datatype under a Single Quote, Double Quote, or Backtick Quote is a String.
